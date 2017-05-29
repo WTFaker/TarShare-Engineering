@@ -4,7 +4,7 @@ __author__ = 'maxangelo987'
 # To use, get a Thingspeak.com account, set up a channel, and capture the Channel Key at https://thingspeak.com/docs/tutorials/ 
 # Then paste your channel ID in the code for the value of "key" below.
 # Then run as sudo python pitemp.py (access to the CPU temp requires sudo access)
-# You can see my channel at https://thingspeak.com/channels/41518
+# You can see my channel at https://thingspeak.com/channels/266415
 
 import httplib, urllib
 import time
